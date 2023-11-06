@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+#Exclude certain file types from EOL normalization
+*.bas text eol=crlf
